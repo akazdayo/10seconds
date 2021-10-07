@@ -22,6 +22,3 @@ function stop() {
 if (confirm('OKを押して10秒だと思ったら何かキーを押してください')) {
     start();
 }
-else {
-    location.reload()
-}
